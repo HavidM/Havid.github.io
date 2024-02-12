@@ -21,6 +21,7 @@ ul {
 .footer {
   background-color: rgba(27, 27, 27, 1);
   padding: 70px 0;
+  height: 350px;
 }
 .footer-col {
   width: 25%;
@@ -55,7 +56,7 @@ ul {
   font-weight: 300;
   color: #bbbbbb;
   display: block;
-  transition: all 0.3s ease;
+  transition: all .5s ease;
 }
 .footer-col ul li a:hover {
   color: rgba(0, 3, 255, 0.8);
